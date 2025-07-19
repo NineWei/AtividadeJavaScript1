@@ -4,4 +4,4 @@ Foi criada uma calculadora simples em JavaScript onde utilizei: os conceitos de 
 
 A saída mostrou o seguinte resultado na imagem abaixo:
 
-![saidaConsole](prints/saidaConsole.png)
+![saidaConsole](Prints/saidaConsole.png)
